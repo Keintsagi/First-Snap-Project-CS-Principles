@@ -22,4 +22,9 @@ If you see this and you'd like to view my project (it's a very basic project) fo
 
 <img width="598" height="431" alt="image" src="https://github.com/user-attachments/assets/6d05130f-b53a-47fd-bfeb-6b968983fbe8" />
 
-You're all set! Thank you for taking a look at my repo/project. Have a good day! :D
+You're all set! 
+
+#### How I Made it
+It's a block language, so there's not much to say. However, I followed the teacher's instructions to create this project. I made an account on Snap!, found the correct blocks, and snapped them together to create the program.
+
+Thank you for taking a look at my repo/project. Have a good day! :D
