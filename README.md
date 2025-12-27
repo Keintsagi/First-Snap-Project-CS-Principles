@@ -2,7 +2,7 @@
 Hi! This is just a repository showcasing my first Snap! project I made for my CS Principles class. I want to document my full programming journey on GitHub, and this is where I'm starting. Thank you for reading. :)
 
 #### How I Made it
-It's a block language, so there's not much to say. However, I followed the teacher's instructions to create this project. I made an account on Snap!, found the correct blocks, and snapped them together to create the program.
+It's a block language, so there's not much to say. I followed the teacher's instructions to create this project. I made an account on Snap!, found the correct blocks, and snapped them together to create the program.
 
 #### How to Run it
 If you see this and you'd like to view my project (it's a very basic project) follow these steps:
