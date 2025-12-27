@@ -4,7 +4,7 @@ Hi! This is just a repository showcasing my first Snap! project I made for my CS
 #### How I Made it
 It's a block language, so there's not much to say. However, I followed the teacher's instructions to create this project. I made an account on Snap!, found the correct blocks, and snapped them together to create the program.
 
-#### How to Run It
+#### How to Run it
 If you see this and you'd like to view my project (it's a very basic project) follow these steps:
 1. Download the "First Project (CS Principles).xml" file in this repository.
 2. Go to https://snap.berkeley.edu/
